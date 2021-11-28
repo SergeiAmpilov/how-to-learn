@@ -271,6 +271,10 @@ h1, h2, h3, h4 {
   z-index: 1;
 }
 
+.table__theme_dark {
+  margin-bottom: 90px;;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
