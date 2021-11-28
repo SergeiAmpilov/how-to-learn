@@ -68,17 +68,15 @@ h1, h2, h3, h4 {
   z-index: 3;
 }
 
-.header__square-pic {
-  position: absolute;
-  right: 0;
-  top: 64px;
-}
-
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
   width: 568px;
   background-color: #2f80ed;
+
+  position: absolute;
+  right: 0;
+  top: 64px;
 }
 
 
@@ -272,7 +270,7 @@ h1, h2, h3, h4 {
 }
 
 .table__theme_dark {
-  margin-bottom: 90px;;
+  margin-bottom: 90px;
 }
 
 /* и элемента с модификатором вида ключ-значение */
@@ -287,7 +285,7 @@ h1, h2, h3, h4 {
 
 /* footer */
 .footer {
-  background-color: #1f1f1f ;
+  background-color: #1f1f1f;
   color: white;
   padding-top: 60px;
   padding-bottom: 40px;
