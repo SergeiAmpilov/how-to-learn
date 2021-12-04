@@ -1,6 +1,6 @@
 /* обнулятор */
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, p {
   margin: 0;
   font-size: 1;
   font-weight: normal;
@@ -352,4 +352,9 @@ h1, h2, h3, h4 {
 
 img.footer__social-icon {
   margin-right: 10px;
+}
+
+a:hover {
+  /* background: gold; */
+  background-color: rgba(0, 120, 201, 0.2);
 }
