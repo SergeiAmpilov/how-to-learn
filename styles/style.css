@@ -66,6 +66,8 @@ h1, h2, h3, h4 {
   bottom: 0;
   right: 0;
   z-index: 3;
+  width: 765px;
+  height: 608px;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -190,6 +192,8 @@ h1, h2, h3, h4 {
 .feynman__img {
   position: absolute;
   bottom: 0;
+  width: 867px;
+  height: 637px;
 
   z-index: 1;
 }
@@ -310,6 +314,12 @@ h1, h2, h3, h4 {
 
 }
 
+.logo__place_footer {
+  width: 183px;
+  height: 35px;
+}
+
+
 .footer__author {
   margin: 18px 0;
 
@@ -329,12 +339,17 @@ h1, h2, h3, h4 {
   font-size: 18px;
 }
 
+.footer__column-link {
+  color: white;
+  text-decoration: none;
+}
+
 .footer__column-link a {
   color: white;
   text-decoration: none;
 }
 
 
-.footer__social-icon img {
+img.footer__social-icon {
   margin-right: 10px;
 }
