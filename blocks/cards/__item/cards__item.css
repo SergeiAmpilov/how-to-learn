@@ -1,0 +1,10 @@
+.cards__item {
+  margin-top: 60px;
+  max-width: 240px;
+  margin-left: 100px;
+
+}
+
+.cards__item:first-child, .cards__item:nth-child(4) {
+  margin-left: 0;
+}
