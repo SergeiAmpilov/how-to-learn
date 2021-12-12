@@ -49,6 +49,7 @@
 @import url(../blocks/footer/__column/_link/footer__column_link.css);
 @import url(../blocks/footer/__social_icon/footer__social_icon.css);
 
-
 @import url(../blocks/link/link.css);
+
+@import url(../blocks/rotation/rotation.css);
 
