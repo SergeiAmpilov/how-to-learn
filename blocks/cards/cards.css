@@ -1,8 +1,8 @@
 .cards {
   margin: auto;
+  padding: 0;
   max-width: 920px;
 
   display: flex;
-  /* justify-content: space-around; */
   flex-wrap:wrap;
 }
